@@ -4,7 +4,7 @@
 
 * react has a something called functional components that return a "react fragment"
 
-* react fragment is enclosed within <> </>
+* react fragment is enclosed within "<> </>"
 
 * It can return a div containing javascript, it's called JSX and it helps a lot since if we're not using react we had to write js somewhere else and bind it to the the div.
 
